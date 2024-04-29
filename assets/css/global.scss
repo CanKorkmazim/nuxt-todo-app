@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply
+  bg-gray-200
+  p-5
+  flex
+  justify-center
+  items-center
+  h-screen
+}
